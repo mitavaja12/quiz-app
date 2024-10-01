@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "question": "What does HTML stands for?",
+      "option1": "Hypertext Machine language.",
+      "option2": "Hypertext and links markup language.'",
+      "option3": "Hypertext Markup Language.",
+      "option4": "Hightext machine language.",
+      "answer": "Hypertext Markup Language.",
+      "id": "e995"
+    },
+    {
+      "question": "How is document type initialized in HTML5.?",
+      "option1": "</DOCTYPE HTML>",
+      "option2": "</DOCTYPE>",
+      "option3": "<!DOCTYPE HTML>",
+      "option4": "</DOCTYPE html>",
+      "answer": "<!DOCTYPE HTML>",
+      "id": "b276"
+    },
+    {
+      "question": "Which of the following HTML Elements is used for making any text bold ?",
+      "option1": "<p>",
+      "option2": "<i>",
+      "option3": "<li>",
+      "option4": "<b>",
+      "answer": "<b>",
+      "id": "a59a"
+    },
+    {
+      "question": "Which of the following HTML element is used for creating an unordered list?",
+      "option1": "<ui>",
+      "option2": "<i>",
+      "option3": "<em>",
+      "option4": "<ul>",
+      "answer": "<ul>",
+      "id": "00b2"
+    },
+    {
+      "question": "Which of the following characters indicate closing of a tag? ",
+      "option1": ".",
+      "option2": "/",
+      "option3": "//",
+      "option4": "!",
+      "answer": "/",
+      "id": "a45c"
+    },
+    {
+      "id": "4e54",
+      "question": "What is the correct JavaScript syntax to change the content of the HTML element below?",
+      "option1": "2",
+      "option2": "4",
+      "option3": "1",
+      "option4": "5",
+      "answer": "2"
+    },
+    {
+      "id": "e486",
+      "question": "2+2",
+      "option1": "1",
+      "option2": "4",
+      "option3": "2",
+      "option4": "5",
+      "answer": "4"
+    }
+  ]
+}
